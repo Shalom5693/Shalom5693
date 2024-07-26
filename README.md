@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile!
 
-### A little about my journey
+### About my journey
 
 "Electrical Engineer turned ML and AI enthusiast. Trying to deepen my knowledge in the field of ML and AI. Sharing the work I have done on this journey."
 
